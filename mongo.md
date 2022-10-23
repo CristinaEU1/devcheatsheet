@@ -99,3 +99,13 @@ db.zips.updateMany({"city":"HUDSON"},{"$set": {"area":9876.54}});
 ### Logic Operators
 
 ![image](https://user-images.githubusercontent.com/31009750/173492552-24b8823b-444c-4da9-9165-4e745ba0c487.png)
+
+### Command Line Help
+```bash
+mongo --help
+```
+
+### Database Help
+```bash
+show dbs
+```
